@@ -1,0 +1,8 @@
+
+{
+  "name": "Rohit Punne - SOC Analyst Portfolio",
+  "description": "An advanced, interactive SOC Analyst portfolio for Rohit Punne, featuring real-time security dashboards, AI-powered threat analysis projects, and a Gemini-integrated security assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
