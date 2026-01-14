@@ -237,7 +237,7 @@ const App: React.FC = () => {
              <p className="text-xs text-slate-500 uppercase font-bold tracking-widest">© 2026 Secured SOC Repository</p>
           </div>
           <div className="flex items-center gap-6">
-            <a href={GITHUB_URL} target="_blank" className="text-slate-500 hover:text-emerald-500 transition-colors"><i className="fab fa-github text-xl"></i></a>
+            <a href="https://github.com/Rohit8983" target="_blank" className="text-slate-500 hover:text-emerald-500 transition-colors"><i className="fab fa-github text-xl"></i></a>
             <a href="https://www.linkedin.com/in/rohit-punne-4a15172a0/" target="_blank" className="text-slate-500 hover:text-emerald-500 transition-colors"><i className="fab fa-linkedin text-xl"></i></a>
             <a href="#" className="text-slate-500 hover:text-emerald-500 transition-colors"><i className="fab fa-twitter text-xl"></i></a>
           </div>
